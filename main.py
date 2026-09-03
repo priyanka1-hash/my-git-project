@@ -10,3 +10,4 @@ score = len(found) / len(skills) * 100
 
 print("Skills Found:", found)
 print("Match Score:", score, "%")
+print("Excellent")
